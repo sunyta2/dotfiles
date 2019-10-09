@@ -1,0 +1,2 @@
+* Using in MacOSX app
+- Gitbox — 14.99 dollors purchased- The version control app on a Mac: http://gitboxapp.com/
